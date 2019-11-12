@@ -2,21 +2,21 @@
 
 ### Linear Algebra
 - For an intuitive understanding
-  - [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
+  - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
 - Books
 
 ### Real Analysis and Calculus
 - For an intuitive understanding
-  - [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - Books
 
 ### Probability Theory
-- List of simulations
+- For an intuitive understanding
   - [Seeing Theory](https://seeing-theory.brown.edu/)
 - Books
 
 ### Transforms
-- List of simulations
+- For an intuitive understanding
   - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
 
 ### Modeling and Simulation
