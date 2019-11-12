@@ -26,3 +26,5 @@
 ### Fundamentals of Computing
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 - [Visualizing data structures and algorithms by animation](https://visualgo.net/en)
+- [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) (YouTube)
+- [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) (YouTube)
