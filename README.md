@@ -17,6 +17,7 @@
 
 ### Modeling and Simulation
 - Books
+  - Mathematical Modelling by J N Kapur
 
 ### Vector Calculus
 - Books
