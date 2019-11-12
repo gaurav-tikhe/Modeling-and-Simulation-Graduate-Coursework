@@ -19,5 +19,7 @@
 ### Modeling and Simulation
 
 ### Vector Calculus
+- For an intuitive understanding
+  - [Understanding curl and divergence](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
 ### Fundamentals of Computing
