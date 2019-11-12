@@ -21,7 +21,7 @@
 
 ### Vector Calculus
 - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) (YouTube)
-- [Understanding curl and divergence](https://lsr_lab.gitlab.io/field_flow/html/index.html)
+- [Visualizing curl and divergence of vector fields](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
 ### Fundamentals of Computing
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
