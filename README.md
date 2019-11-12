@@ -1,26 +1,21 @@
 # Modeling-and-Simulation-Graduate-Coursework
 
 ### Linear Algebra
-- For an intuitive understanding
-  - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
 
 ### Real Analysis and Calculus
-- For an intuitive understanding
-  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Probability Theory
-- For an intuitive understanding
-  - [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
 
 ### Transforms
-- For an intuitive understanding
-  - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
-  - [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
+- [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ### Modeling and Simulation
 
 ### Vector Calculus
-- For an intuitive understanding
-  - [Understanding curl and divergence](https://lsr_lab.gitlab.io/field_flow/html/index.html)
+- [Understanding curl and divergence](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
 ### Fundamentals of Computing
