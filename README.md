@@ -8,4 +8,4 @@
 
 ### Probability Theory
 - List of simulations
-* [Seeing Theory](https://seeing-theory.brown.edu/)
+  - [Seeing Theory](https://seeing-theory.brown.edu/)
