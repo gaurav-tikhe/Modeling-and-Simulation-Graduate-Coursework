@@ -24,3 +24,5 @@
 - [Understanding curl and divergence](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
 ### Fundamentals of Computing
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
+- [Visualizing data structures and algorithms by animation](https://visualgo.net/en)
