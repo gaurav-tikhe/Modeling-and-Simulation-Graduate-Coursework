@@ -11,7 +11,7 @@
 - [Infinity](https://mathigon.org/world/Infinity)
 
 ### Probability Theory
-- [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Seeing Theory](https://seeing-theory.brown.edu/) (Brown University)
 
 ### Transforms
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
