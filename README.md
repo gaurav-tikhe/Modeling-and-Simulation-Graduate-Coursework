@@ -40,3 +40,8 @@
   - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
   - [Visualizing data structures and algorithms by animation](https://visualgo.net/en)
   - [Visualizing Sorting Algorithms](http://sorting.at/)
+  - [Animated Algorithms](http://www.algomation.com/)
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  - [Visualization and Manipulation of Mathematical EXpression Trees](https://vmext.wmflabs.org/)
+  - [Binary Tree Visualizer](http://btv.melezinek.cz/)
+  
