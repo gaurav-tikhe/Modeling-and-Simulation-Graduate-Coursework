@@ -41,9 +41,9 @@
 
 ### Vector Calculus
 - Videos
-  - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) (YouTube)
+  - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) by Khan Academy[https://www.youtube.com/user/khanacademy] (YouTube)
 - Interactives
-  - [Visualizing curl and divergence of vector fields](https://lsr_lab.gitlab.io/field_flow/html/index.html)
+  - Visualizing curl and divergence of vector fields by [Anonymous](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
 ---
 
