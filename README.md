@@ -52,7 +52,7 @@
   - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) by [Timo Bjngmann](https://www.youtube.com/user/tbingmann) (YouTube)
   - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) by [Viktor Bohush](https://www.youtube.com/user/vbohush) (YouTube)
 - Interactives
-  - *Visualizing data structures and algorithms by animation by [Visualgo](https://visualgo.net/en)
+  - *Visualizing data structures and algorithms by animation* by [Visualgo](https://visualgo.net/en)
   - *Visualizing Sorting Algorithms* by [sorting.at](http://sorting.at/)
   - *Animated Algorithms* by [Algomation](http://www.algomation.com/)
   - *Data Structure Visualizations* by [University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/)
