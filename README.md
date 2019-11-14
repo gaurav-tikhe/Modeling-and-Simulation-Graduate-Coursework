@@ -41,7 +41,7 @@
 
 ### Vector Calculus
 - Videos
-  - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) by Khan Academy[https://www.youtube.com/user/khanacademy] (YouTube)
+  - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) by [Khan Academy](https://www.youtube.com/user/khanacademy) (YouTube)
 - Interactives
   - Visualizing curl and divergence of vector fields by [Anonymous](https://lsr_lab.gitlab.io/field_flow/html/index.html)
 
@@ -49,14 +49,14 @@
 
 ### Fundamentals of Computing
 - Videos
-  - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) (YouTube)
-  - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) (YouTube)
+  - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) by [Timo Bjngmann](https://www.youtube.com/user/tbingmann) (YouTube)
+  - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) by [Viktor Bohush](https://www.youtube.com/user/vbohush) (YouTube)
 - Interactives
-  - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
-  - [Visualizing data structures and algorithms by animation](https://visualgo.net/en)
-  - [Visualizing Sorting Algorithms](http://sorting.at/)
-  - [Animated Algorithms](http://www.algomation.com/)
-  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  - Visualizing data structures and algorithms by animation by [Visualgo](https://visualgo.net/en)
+  - Visualizing Sorting Algorithms by [sorting.at](http://sorting.at/)
+  - Animated Algorithms by [Algomation](http://www.algomation.com/)
+  - Data Structure Visualizations by [University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/)
   - [Visualization and Manipulation of Mathematical Expression Trees](https://vmext.wmflabs.org/)
   - [Binary Tree Visualizer](http://btv.melezinek.cz/)
+  - Visualizing Algorithms by [Mike Bostoc](https://bost.ocks.org/mike/algorithms/)
   
