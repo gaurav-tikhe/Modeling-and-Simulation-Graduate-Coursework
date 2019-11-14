@@ -2,35 +2,36 @@
 
 ### Linear Algebra
 - Videos
-  - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (YouTube)
+  - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (YouTube)
 
 ---
 
 ### Complex Algebra
 - Videos
-  - [Complex Variables and Functions](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CNMqbsL9GTWwU542DiRrPB) (YouTube)
+  - [Complex Variables and Functions](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CNMqbsL9GTWwU542DiRrPB) by [Faculty of Khan](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg) (YouTube)
 
 ---
 
 ### Real Analysis and Calculus
 - Videos
-  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (YouTube)
+  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (YouTube)
 - Interactives
-  - [Infinity](https://mathigon.org/world/Infinity)
+  - Understanding Infinity by [Mathigon](https://mathigon.org/world/Infinity)
 
 ---
 
 ### Probability Theory
 - Interactives
-  - [Seeing Theory](https://seeing-theory.brown.edu/) (Brown University)
+  - Seeing Theory by [Brown University](https://seeing-theory.brown.edu/)
 
 ---
 
 ### Transforms
 - Videos
-  - [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY) (YouTube)
+  - [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (YouTube)
 - Interactives
-  - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
+  - An Interactive Introduction to Fourier Transforms by [Jezzamon](http://www.jezzamon.com/fourier/)
+  - Tool inspired by 3Blue1Brown by [Anonymous](https://harshucogsci.github.io/visualizing-fourier/html/)
 
 ---
 
