@@ -56,7 +56,7 @@
   - Visualizing Sorting Algorithms by [sorting.at](http://sorting.at/)
   - Animated Algorithms by [Algomation](http://www.algomation.com/)
   - Data Structure Visualizations by [University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/)
-  - [Visualization and Manipulation of Mathematical Expression Trees](https://vmext.wmflabs.org/)
-  - [Binary Tree Visualizer](http://btv.melezinek.cz/)
+  - Visualization and Manipulation of Mathematical Expression Trees by [University of Wuppertal](https://vmext.wmflabs.org/)
+  - Binary Tree Visualizer [Jakub Melezinek, CTU](http://btv.melezinek.cz/)
   - Visualizing Algorithms by [Mike Bostoc](https://bost.ocks.org/mike/algorithms/)
   
