@@ -15,6 +15,7 @@
 ### Real Analysis and Calculus
 - Videos
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (YouTube)
+  - [The fundamental Theorem of Calculus](https://www.youtube.com/playlist?list=PLE259EE5D5CED4069) by [Derek Owens](https://www.youtube.com/user/derekowens) (YouTube)
 - Interactives
   - *Understanding Infinity* by [Mathigon](https://mathigon.org/world/Infinity)
 
