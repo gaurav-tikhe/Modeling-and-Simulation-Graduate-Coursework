@@ -57,6 +57,8 @@
 - Videos
   - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) by [Timo Bjngmann](https://www.youtube.com/user/tbingmann) (YouTube)
   - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) by [Viktor Bohush](https://www.youtube.com/user/vbohush) (YouTube)
+  - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) by [MIT OCW](https://www.youtube.com/user/MIT) (YouTube) - Basic Course
+  - [MIT 6.046J / 18.410J Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C) by [MIT OCW](https://www.youtube.com/user/MIT) (YouTube) - Advanced Course
 - Interactives
   - *Visualizing data structures and algorithms by animation* by [Visualgo](https://visualgo.net/en)
   - *Visualizing Sorting Algorithms* by [sorting.at](http://sorting.at/)
