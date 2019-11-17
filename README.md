@@ -51,6 +51,7 @@
   - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) by [Khan Academy](https://www.youtube.com/user/khanacademy) (YouTube)
 - Interactives
   - *Visualizing curl and divergence of vector fields* by [Anonymous](https://lsr_lab.gitlab.io/field_flow/html/index.html)
+  - *Flow Lines* by [Maks Surguy](https://msurguy.github.io/flow-lines)
 
 ---
 
