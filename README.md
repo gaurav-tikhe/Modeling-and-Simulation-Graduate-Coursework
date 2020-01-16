@@ -56,6 +56,7 @@
 ---
 
 ### Fundamentals of Computing
+- Introduction to python programming (https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - Videos
   - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) by [Timo Bjngmann](https://www.youtube.com/user/tbingmann) (YouTube)
   - [Visualization and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) by [Viktor Bohush](https://www.youtube.com/user/vbohush) (YouTube)
